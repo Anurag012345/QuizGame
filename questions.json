@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "choices": ["Paris", "Berlin", "Madrid", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "choices": ["Venus", "Jupiter", "Mars", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the name of the world's largest desert?",
+      "choices": ["Sahara", "Gobi", "Atacama", "Arabian"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "choices": ["Beijing", "Tokyo", "Seoul", "Taipei"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "choices": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+      "answer": "Vatican City"
+    }
+  ]
+}
