@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.hero {
+  background-image: url("https://dribbble.com/shots/17407053-Rainbow-Road?utm_source=Clipboard_Shot&utm_campaign=seth_eckert&utm_content=Rainbow%20Road&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=seth_eckert&utm_content=Rainbow%20Road&utm_medium=Social_Share");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero h2 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+}
+.hero button {
+  background-color: #fff;
+  color: #333;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.hero button:hover {
+  background-color: #333;
+  color: #fff;
+}
